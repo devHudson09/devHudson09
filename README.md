@@ -1,13 +1,30 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Bem-vindo(a) ao meu Perfil! 😄
 
-Sou um Desenvolvedor Web Júnior buscando por experiências incríveis na web. Trabalhando com **HTML**, **CSS** e **JavaScript** para transformar ideias em realidade.
+## Sobre Mim
+Olá! Sou um **Desenvolvedor Web Júnior** apaixonado por criar experiências incríveis na web. Amo transformar ideias em realidade usando **HTML**, **CSS** e **JavaScript**. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
 
-### Conecte-se comigo:
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/devHudson09)
+---
 
-### Tecnologias que utilizo:
-<div style="display: inline_block"><br>
+## Tecnologias que Eu Uso 🚀
+<div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+---
+
+## Conecte-se Comigo 🌐
+- 🌟 Meu GitHub: [devHudson09](https://github.com/devHudson09)
+- 💬 Estou sempre aberto para colaborações e trocas de ideias!
+
+---
+
+### Projetos Recentes 💡
+- **Clone de Página Web**: Utilizando HTML e CSS.
+- **Interatividade com JavaScript**: Funções práticas para páginas dinâmicas.
+- **Portfólio Online**: Um espaço para exibir meus projetos (em progresso!).
+
+---
+
+_Agradeço por visitar meu perfil! Vamos criar algo incrível juntos?_ 😊
