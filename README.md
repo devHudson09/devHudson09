@@ -12,6 +12,6 @@
  
 <br>
 
- .
+ Sou um Desenvolvedor Web Júnior buscando por experiências incríveis na web. Trabalhando com HTML, CSS e JavaScript para transformar ideias em realidade.
 <div> 
 </div>
