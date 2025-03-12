@@ -1,17 +1,19 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
- <div>
-   <a href="https://github.com/devHudson09">
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biografia Animada</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bio-container">
+    <h1>Olá, eu sou <span class="highlight">Seu Nome</span></h1>
+    <p>Sou um desenvolvedor web apaixonado por criar experiências incríveis na web. Trabalhando com HTML, CSS e JavaScript para transformar ideias em realidade!</p>
+    <button class="btn" onclick="alert('Vamos nos conectar!')">Saiba Mais</button>
+  </div>
+</body>
+</html>
 
- 
-<div> 
-</div>
