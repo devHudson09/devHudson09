@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao meu Perfil! 😄
 
 ## Sobre Mim
-Olá! Sou um **Desenvolvedor Web Júnior** buscando experiências incríveis na web. Amo transformar ideias em realidade usando **HTML**, **CSS** e **JavaScript**. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
+Olá! Sou um **Desenvolvedor Web Júnior** buscando experiências incríveis na web. Exploro a criatividade transformando ideias em realidade usando **HTML**, **CSS** e **JavaScript**. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
 
 ---
 
