@@ -35,8 +35,8 @@ Estou sempre faminto por novos desafios e sedento por conhecimento, buscando opo
 ## 🌐 Conecte-se e Vamos Codificar! 🌐
 Minhas portas digitais estão sempre abertas para novas conexões, colaborações e brainstorms de ideias revolucionárias!
 - 🚀 **GitHub:** [devHudson09](https://github.com/devHudson09) - Meu laboratório de projetos!
-- 📧 **E-mail:** [SeuEmail@exemplo.com](mailto:SeuEmail@exemplo.com) (adicione seu email aqui) - Mande um sinal!
-- 🔗 **LinkedIn:** [SeuPerfilNoLinkedIn](https://linkedin.com/in/seu-perfil-linkedin) (adicione seu LinkedIn aqui) - Network de alta performance!
+- 📧 **E-mail:** [devhudson.10@gmail.com](devhudson.10@gmail.com) (adicione seu email aqui) - Mande um sinal!
+- 🔗 **LinkedIn:** [Hudson Santos]([https://linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/hudson-santos-20a88b258/)) (adicione seu LinkedIn aqui) - Network de alta performance!
 
 ---
 
