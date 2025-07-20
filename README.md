@@ -1,6 +1,5 @@
-<div style="display: inline_block; margin-top: 15px;">
-<img align="center" alt="JavaScript Icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<span style="font-size: 1.5em; vertical-align: middle; margin-left: 10px;"> JavaScript: O Coração Pulsante! </span> 🔮
+<div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-ilustra.png" alt="Ilustração de um computador" width="300px"/>
 </div>
 
 # ✨ Bem-vindo(a) ao meu Domínio Digital! ✨
