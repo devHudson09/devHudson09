@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-ilustra.png" alt="Ilustração de um computador" width="350px"/>
+</div>
+
 # ⚡ Hudson Santos Martins | Forjador de Experiências Web ⚡
 
 ---
@@ -9,6 +13,7 @@ Com uma sede insaciável por conhecimento e um espírito aventureiro, estou semp
 
 ---
 
+### 🛠️ Meu Arsenal Tecnológico 🛠️
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
@@ -18,13 +23,14 @@ Com uma sede insaciável por conhecimento e um espírito aventureiro, estou semp
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub 📊
+## 📊 Minhas Crônicas no GitHub 📊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devHudson09&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&hide_border=true&card_width=300"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHudson09&layout=compact&langs_count=3&theme=dark&line_height=25&hide_border=true&card_width=300"/>
 </div>
 
+### 🐍 Minha Cobrinha de Atividade! 🐍
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devHudson09/devHudson09/output/github-contribution-grid-snake-dark.svg">
@@ -33,6 +39,7 @@ Com uma sede insaciável por conhecimento e um espírito aventureiro, estou semp
   </picture>
 </div>
 
+### 📈 Gráfico de Contribuições 📈
 <div align="center">
   <img src="https://github-contributions-api.joshuatz.com/api?username=devHudson09&theme=dark&title=Minhas%20Contribuições%20no%20GitHub" alt="Gráfico de Contribuições do GitHub"/>
 </div>
@@ -49,7 +56,7 @@ Minhas portas digitais estão sempre abertas para novas conexões, colaboraçõe
 ---
 
 ## 💡 Meus Artefatos de Código Recentes 💡
-Uma amostra dos meus feitos e criações em minha jornada:
+Uma amostra do que andei construindo em minha jornada:
 
 - **`Projeto: Clone de Página Web`** 🌐: Uma réplica fiel, forjada em HTML e CSS, demonstrando maestria na estrutura e estilo.
 - **`Projeto: Interatividade com JavaScript`** 🕹️: Poções e encantos que trazem vida às páginas web, infundindo dinamismo e uma experiência de usuário mágica.
