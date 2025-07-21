@@ -26,10 +26,6 @@ Com uma sede insaciável por conhecimento e um espírito aventureiro, estou semp
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devHudson09&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devHudson09/devHudson09/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devHudson09/devHudson09/output/github-contribution-grid-snake.svg">
