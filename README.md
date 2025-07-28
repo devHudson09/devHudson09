@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-ilustra.png" alt="Ilustração de um computador" width="350px"/>
-</div>
-
 # ⚡ Hudson Santos Martins | Forjador de Experiências Web ⚡
 
 ---
@@ -29,22 +25,6 @@ Com uma sede insaciável por conhecimento e um espírito aventureiro, estou semp
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devHudson09&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&hide_border=true&card_width=300"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHudson09&layout=compact&langs_count=3&theme=dark&line_height=25&hide_border=true&card_width=300"/>
 </div>
-
-### 🐍 Minha Cobrinha de Atividade! 🐍
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devHudson09/devHudson09/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devHudson09/devHudson09/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/devHudson09/devHudson09/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-### 📈 Gráfico de Contribuições 📈
-<div align="center">
-  <img src="https://github-contributions-api.joshuatz.com/api?username=devHudson09&theme=dark&title=Minhas%20Contribuições%20no%20GitHub" alt="Gráfico de Contribuições do GitHub"/>
-</div>
-
----
 
 ## 🌐 Conecte-se e Vamos Forjar o Futuro! 🌐
 Minhas portas digitais estão sempre abertas para novas conexões, colaborações e brainstorms de ideias revolucionárias! Sinta-se à vontade para enviar seu pergaminho digital!
