@@ -11,11 +11,13 @@ Apaixonado por código limpo, interfaces funcionais e aprendizado contínuo.
 
 ## Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-aprendendo-61DAFB?style=flat&logo=react&logoColor=black)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" title="React"/>
+</p>
 
 ---
 
@@ -37,5 +39,5 @@ Vitrine centralizada dos meus projetos e trajetória — em desenvolvimento ativ
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-devHudson09-181717?style=flat&logo=github)](https://github.com/devHudson09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudson--santos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hudson-santos-20a88b258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudsons--martins-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hudsons-martins/)
 [![Email](https://img.shields.io/badge/Email-devhudson.10@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devhudson.10@gmail.com)
