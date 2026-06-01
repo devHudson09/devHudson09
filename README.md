@@ -1,48 +1,41 @@
-# ⚡ Hudson Santos Martins | Forjador de Experiências Web ⚡
+<h1>Hudson Santos Martins</h1>
+
+**Desenvolvedor Web Júnior · Bahia, BR**
+
+🟢 Aberto a oportunidades
+
+Construo experiências web com **HTML, CSS e JavaScript**.
+Apaixonado por código limpo, interfaces funcionais e aprendizado contínuo.
 
 ---
 
-## 🚀 O Despertar de um Coder Lendário 🚀
-Olá, Conquistador(a) Digital! 👋 Eu sou **Hudson Santos Martins**, um **Desenvolvedor Web Júnior** cuja paixão é moldar o futuro digital. Cada linha de código que escrevo é um feitiço, cada projeto, um reino novo a ser construído no vasto universo da web. Meu caldeirão mágico? Onde os elementos **HTML**, **CSS** e **JavaScript** se fundem para conjurar soluções que transcendem o comum! ✨
+## Stack
 
-Com uma sede insaciável por conhecimento e um espírito aventureiro, estou sempre em busca da próxima grande saga, pronto para enfrentar desafios e codificar legados. Quer embarcar nesta jornada épica e construir algo verdadeiramente **extraordinário**? 💻
-
----
-
-### 🛠️ Meu Arsenal Tecnológico 🛠️
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <br><br>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-aprendendo-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
-## 📊 Minhas Crônicas no GitHub 📊
+## Projetos recentes
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devHudson09&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&hide_border=true&card_width=300"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHudson09&layout=compact&langs_count=3&theme=dark&line_height=25&hide_border=true&card_width=300"/>
-</div>
+### 🌐 Clone de Página Web
+Réplica fiel de interface real usando HTML e CSS puro — foco em semântica, responsividade e fidelidade visual.
+`HTML` `CSS`
 
-## 🌐 Conecte-se e Vamos Forjar o Futuro! 🌐
-Minhas portas digitais estão sempre abertas para novas conexões, colaborações e brainstorms de ideias revolucionárias! Sinta-se à vontade para enviar seu pergaminho digital!
+### ⚡ Interatividade com JavaScript
+Funcionalidades dinâmicas integradas a páginas estáticas: eventos, DOM manipulation e lógica no front.
+`JavaScript` `HTML` `CSS`
 
-- 🚀 **GitHub:** [devHudson09](https://github.com/devHudson09) - Meu santuário de códigos e experimentos!
-- 📧 **E-mail:** [devhudson.10@gmail.com](mailto:devhudson.10@gmail.com) - Acenda um sinal na minha caixa de entrada!
-- 🔗 **LinkedIn:** [Hudson Santos](https://www.linkedin.com/in/hudson-santos-20a88b258/) - Forjando redes de alta performance!
-
----
-
-## 💡 Meus Artefatos de Código Recentes 💡
-Uma amostra do que andei construindo em minha jornada:
-
-- **`Projeto: Clone de Página Web`** 🌐: Uma réplica fiel, forjada em HTML e CSS, demonstrando maestria na estrutura e estilo.
-- **`Projeto: Interatividade com JavaScript`** 🕹️: Poções e encantos que trazem vida às páginas web, infundindo dinamismo e uma experiência de usuário mágica.
-- **`Portfólio Online`** (EM CONSTRUÇÃO 🚧): Meu futuro epicentro de todas as minhas criações, um portal onde você poderá explorar meu universo de projetos e conquistas!
+### 💼 Portfólio Online *(em construção)*
+Vitrine centralizada dos meus projetos e trajetória — em desenvolvimento ativo.
 
 ---
 
-## 🌟 O Juramento do Coder 🌟
-_Agradeço por visitar meu perfil! Vamos construir o futuro da web juntos?_ ✨
+## Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-devHudson09-181717?style=flat&logo=github)](https://github.com/devHudson09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudson--santos-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hudson-santos-20a88b258/)
+[![Email](https://img.shields.io/badge/Email-devhudson.10@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devhudson.10@gmail.com)
