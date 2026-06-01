@@ -21,8 +21,6 @@
 
 ---
 
-## `$ whoami`
-
 ```json
 {
   "name"    : "Hudson Santos Martins",
