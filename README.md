@@ -36,8 +36,6 @@
 
 ---
 
-## `$ ls -la ~/stack`
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -49,8 +47,6 @@
 </div>
 
 ---
-
-## `$ ls ~/projects`
 
 ```bash
 drwxr-xr-x  web-page-clone/       # Réplica fiel de interface real
@@ -95,8 +91,6 @@ drwxr-xr-x  portfolio/            # [WIP] Em desenvolvimento ativo
 
 ---
 
-## `$ git log --oneline --stat`
-
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devHudson09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" />
@@ -113,8 +107,6 @@ drwxr-xr-x  portfolio/            # [WIP] Em desenvolvimento ativo
 </div>
 
 ---
-
-## `$ cat contacts.json`
 
 ```json
 {
